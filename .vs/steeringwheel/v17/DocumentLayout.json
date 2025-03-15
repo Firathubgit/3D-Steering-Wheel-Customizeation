@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Library\\PackageCache\\com.unity.render-pipelines.high-definition\\Runtime\\RenderPipeline\\Utility\\HDUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.high-definition\\Runtime\\RenderPipeline\\Utility\\HDUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|c:\\users\\38kqg\\desktop\\unityprojekt\\unityprojekt\\steeringwheel\\assets\\steeringwheelcustomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|solutionrelative:assets\\steeringwheelcustomizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\assets\\cameraviewchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|solutionrelative:assets\\cameraviewchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\assets\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|solutionrelative:assets\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\assets\\steeringwheelpartclicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|solutionrelative:assets\\steeringwheelpartclicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\assets\\childclickforwarder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|solutionrelative:assets\\childclickforwarder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\assets\\steeringwheelpartdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|solutionrelative:assets\\steeringwheelpartdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\38kqg\\desktop\\unityprojekt\\unityprojekt\\steeringwheel\\assets\\rebuilddropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\rebuilddropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\CameraHoverButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraHoverButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\assets\\materials\\steeringwheelmaterialchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D986C2E-9933-2CF6-A35A-523F4A4D0FF7}|Assembly-CSharp.csproj|solutionrelative:assets\\materials\\steeringwheelmaterialchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\SteeringWheelMaterialChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SteeringWheelMaterialChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\ToggleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ToggleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\CameraHoverController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraHoverController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HDUtils.cs",
+              "DocumentMoniker": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Library\\PackageCache\\com.unity.render-pipelines.high-definition\\Runtime\\RenderPipeline\\Utility\\HDUtils.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.high-definition\\Runtime\\RenderPipeline\\Utility\\HDUtils.cs",
+              "ToolTip": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Library\\PackageCache\\com.unity.render-pipelines.high-definition\\Runtime\\RenderPipeline\\Utility\\HDUtils.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.high-definition\\Runtime\\RenderPipeline\\Utility\\HDUtils.cs",
+              "ViewState": "AQIAAIMEAAAAAAAAAAAAwKEEAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:11:56.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneChanger.cs",
+              "DocumentMoniker": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneChanger.cs",
+              "ToolTip": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\SceneChanger.cs",
+              "RelativeToolTip": "Assets\\SceneChanger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:52:26.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraViewChange.cs",
+              "DocumentMoniker": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\CameraViewChange.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraViewChange.cs",
+              "ToolTip": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\CameraViewChange.cs",
+              "RelativeToolTip": "Assets\\CameraViewChange.cs",
+              "ViewState": "AQIAAHcBAAAAAAAAAAAAwKcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:06:59.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RebuildDropdown.cs",
+              "DocumentMoniker": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\RebuildDropdown.cs",
+              "RelativeDocumentMoniker": "Assets\\RebuildDropdown.cs",
+              "ToolTip": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\RebuildDropdown.cs",
+              "RelativeToolTip": "Assets\\RebuildDropdown.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T21:47:12.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SteeringWheelPartData.cs",
+              "DocumentMoniker": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\SteeringWheelPartData.cs",
+              "RelativeDocumentMoniker": "Assets\\SteeringWheelPartData.cs",
+              "ToolTip": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\SteeringWheelPartData.cs",
+              "RelativeToolTip": "Assets\\SteeringWheelPartData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:14:32.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChildClickForwarder.cs",
+              "DocumentMoniker": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\ChildClickForwarder.cs",
+              "RelativeDocumentMoniker": "Assets\\ChildClickForwarder.cs",
+              "ToolTip": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\ChildClickForwarder.cs",
+              "RelativeToolTip": "Assets\\ChildClickForwarder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T21:50:16.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SteeringWheelCustomizer.cs",
+              "DocumentMoniker": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\SteeringWheelCustomizer.cs",
+              "RelativeDocumentMoniker": "Assets\\SteeringWheelCustomizer.cs",
+              "ToolTip": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\SteeringWheelCustomizer.cs",
+              "RelativeToolTip": "Assets\\SteeringWheelCustomizer.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAAwBgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:34:55.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SteeringWheelPartClicker.cs",
+              "DocumentMoniker": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\SteeringWheelPartClicker.cs",
+              "RelativeDocumentMoniker": "Assets\\SteeringWheelPartClicker.cs",
+              "ToolTip": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\SteeringWheelPartClicker.cs",
+              "RelativeToolTip": "Assets\\SteeringWheelPartClicker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:58:27.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraHoverButton.cs",
+              "DocumentMoniker": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\CameraHoverButton.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraHoverButton.cs",
+              "ToolTip": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\CameraHoverButton.cs",
+              "RelativeToolTip": "Assets\\CameraHoverButton.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:21:31.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraHoverController.cs",
+              "DocumentMoniker": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\CameraHoverController.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraHoverController.cs",
+              "ToolTip": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\CameraHoverController.cs",
+              "RelativeToolTip": "Assets\\CameraHoverController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T04:08:11.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SteeringWheelMaterialChanger.cs",
+              "DocumentMoniker": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\Materials\\SteeringWheelMaterialChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Materials\\SteeringWheelMaterialChanger.cs",
+              "ToolTip": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\Materials\\SteeringWheelMaterialChanger.cs",
+              "RelativeToolTip": "Assets\\Materials\\SteeringWheelMaterialChanger.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T03:42:50.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SteeringWheelMaterialChanger.cs",
+              "DocumentMoniker": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\SteeringWheelMaterialChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\SteeringWheelMaterialChanger.cs",
+              "ToolTip": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\SteeringWheelMaterialChanger.cs",
+              "RelativeToolTip": "Assets\\SteeringWheelMaterialChanger.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T02:21:07.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ToggleManager.cs",
+              "DocumentMoniker": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\ToggleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ToggleManager.cs",
+              "ToolTip": "C:\\Users\\38kqg\\Desktop\\Unityprojekt\\Unityprojekt\\steeringwheel\\Assets\\ToggleManager.cs",
+              "RelativeToolTip": "Assets\\ToggleManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:38:23.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
